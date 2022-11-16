@@ -1,0 +1,17 @@
+Git clone   <link>
+
+cd  
+
+create file and save
+
+ls
+
+git status
+
+git  add ./
+
+git status
+
+git commit -m "initinal commit"
+
+git  push

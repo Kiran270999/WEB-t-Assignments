@@ -1,0 +1,11 @@
+FROM node:alpine
+COPY . /app
+WORKDIR /app
+CMD node app.js
+
+------------------------------
+Docker version 
+
+Docker build -t app .
+
+Docker image ls  
